@@ -4,7 +4,7 @@
 
 [Link para a base de dados do exemplo](https://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=download) https://www.kaggle.com/datasets/datascientistanna/customers-dataset?resource=download
 
-Obs.: Esse dataset de exemplo é apenas imaginativo, não são informações confiaveis, apenas utilizado para testes das plataformas.
+Obs.: Esse dataset de exemplo é apenas imaginativo, apenas utilizado para testes das plataformas.
 
 
 
